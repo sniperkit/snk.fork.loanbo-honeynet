@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 - name: ftp
   config:
     root: /opt/dionaea/var/dionaea/roots/ftp

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 - name: http
   config:
     root: "/opt/dionaea/var/dionaea/roots/www"

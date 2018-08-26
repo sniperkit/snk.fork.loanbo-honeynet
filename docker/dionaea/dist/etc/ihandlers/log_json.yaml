@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 - name: log_json
   config:
     # Uncomment next line to flatten object lists to work with ELK

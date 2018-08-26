@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cluster.name: tpotcluster
 node.name: "tpotcluster-node-01"
 path:

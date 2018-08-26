@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 'use strict';
 
 var _setup_error = require('./setup_error');
